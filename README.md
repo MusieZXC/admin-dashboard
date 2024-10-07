@@ -4,7 +4,7 @@ N2/12 ------------------------------------------------------------
 step one: git clone https://github.com/MusieZXC/admin-dashboard.git   
 step two: npm install admin-lte --save                                                                                                          
 step three: cd admin-dashboard
-step four:npm i 
+step four: npm i 
 then you can npm start the code.
 
 Admin-Dashboard                                                                                                                          
